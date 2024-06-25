@@ -9,7 +9,7 @@ env:
   LOCATION: southeastasia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 47571195-1707-4fac-9a64-3986fe32e342
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  WEBAPP-NAME: eshoponweb-webapp-ccAZ400
 
 
 jobs:
